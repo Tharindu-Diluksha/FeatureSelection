@@ -1,0 +1,83 @@
+MOH 69 MC-COLOMBO
+p_val	 			features 
+5.68890411256E-014	cases.lag.3
+4.74136957026E-011	mob.lag.10
+4.67006367334E-010	mob.lag.8
+1.61044929706E-009	mob.lag.9
+5.41506962573E-009	mob.lag.11
+1.77045408179E-008	mob.lag.12
+1.34285911896E-007	cases.lag.4
+6.4625242958E-007	mob.lag.7
+1.53519788767E-006	cases.lag.12
+4.50634947982E-006	cases.lag.11
+7.22917174379E-006	mob.lag.6
+======================================
+
+MOH 162 MC-GALLE
+p_val			features
+0.0001645355	mean.temp.lag.9
+0.0002019168	mean.temp.lag.12
+0.0008022182	mean.temp.lag.11
+0.0008562473	cases.lag.5
+0.000981224	    mean.temp.lag.10
+0.0009956573	mean.temp.lag.8
+0.0012861596	cases.lag.3
+0.0022375886	mob.lag.7
+0.0031666898	min.temp.lag.9
+0.0032352149	min.temp.lag.3
+======================================
+
+MOH 173 DEHIWALA
+p_val	            features
+6.44614777404E-010	cases.lag.12
+1.25303296496E-009	cases.lag.11
+2.0286995469E-007	cases.lag.10
+3.00576442954E-007	cases.lag.3
+3.46950714506E-005	cases.lag.4
+9.35648673325E-005	cases.lag.9
+0.0007145187	    cases.lag.8
+0.00837948			mob.lag.10
+0.0085961908		precipitation.lag.12
+0.0116943952		mean.temp.lag.10
+0.0129668362		mob.lag.9
+======================================
+
+MOH 273 VAVUNIYA 
+p_val			features
+0.0024413195	precipitation.lag.7
+0.0048347151	max.temp.lag.12
+0.0062223595	ndvi.lag.11
+0.0107524079	ndvi.lag.12
+0.0203700948	cases.lag.3
+0.0440348173	cases.lag.4
+0.0648985261	max.temp.lag.10
+0.0681009995	mean.temp.lag.12
+0.0709683593	precipitation.lag.12
+0.092716435		precipitation.lag.5
+0.094729234		min.temp.lag.5
+0.0984765029	max.temp.lag.11
+0.1074322403	mob.lag.10
+======================================
+
+MOH 280 BADULLA
+p_val				features
+6.14500802254E-034	cases.lag.4
+7.03967576102E-033	cases.lag.3
+2.17091445774E-024	cases.lag.7
+1.10453210375E-021	cases.lag.5
+2.58273466256E-020	cases.lag.6
+8.5439993028E-018	cases.lag.9
+6.36971931528E-017	cases.lag.8
+4.82266276477E-011	cases.lag.10
+5.10882030874E-011	cases.lag.11
+0.000000162			cases.lag.12
+1.6496159242E-005	precipitation.lag.3
+0.0001772743		precipitation.lag.4
+0.0009320965		precipitation.lag.7
+0.0043091954		precipitation.lag.8
+0.0048802326		precipitation.lag.5
+0.0048827998		precipitation.lag.6
+0.0060271582		max.temp.lag.12
+======================================
+
+
